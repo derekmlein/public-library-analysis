@@ -11,7 +11,7 @@ This project utilizes **Python** for data cleaning and **Tableau** for calculati
 ---
 
 ## 📊 Tableau Dashboard
-[![Dashboard](Derek%20Lein%20Public%20Libraries%20Analysis%20Tableau%20Dashboard.png)](https://public.tableau.com/app/profile/derek.lein/viz/PublicLibrary_Draft04/LibrariesRecoveredorChanged)
+[![Dashboard](Images/Derek%20Lein%20Public%20Libraries%20Analysis%20Tableau%20Dashboard.png)](https://public.tableau.com/app/profile/derek.lein/viz/PublicLibrary_Draft04/LibrariesRecoveredorChanged)
 *> Click the image above to view the interactive dashboard on Tableau Public.*
 
 ---
